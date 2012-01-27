@@ -28,7 +28,7 @@
  * @copyright  Copyright (c) 2011 Signified (http://signified.com.au)
  * @license    http://www.opensource.org/licenses/bsd-license    New BSD License
  */
-class WeatherComponent extends Object
+class WeatherComponent extends Component
 {
     /**
      * The error status of the result (true or false)
